@@ -5,7 +5,7 @@ MSc Neuroscience Graduate & Aspiring Software Engineer
 -------------------------
 🛼🧠👩🏽‍💻🧬🪐🌿
 
-Recently completed a Software Engineering Nanodegree run by Code First Girls and sponsored by Goldman Sachs, achieving a distinction (88%). I am interested in pursuing software engineering roles. <img align="right" width="400" height="400" src=https://github.com/nikitapxtel/nikitapxtel/blob/06d260e00b933f8ad02012a040518802758df2c5/Untitled_Artwork.png>
+Recently completed a Software Engineering Nanodegree run by Code First Girls and sponsored by Goldman Sachs, achieving a distinction (88%). I am interested in pursuing software engineering roles. <img align="right" width="400" height="400" src=https://github.com/nikitapxtel/nikitapxtel/blob/1bd02b268a0dabb99dffc50c984a2b71bbd373e0/images/MVP-Procreate.png>
 
 🌍  I'm based in London 
 
