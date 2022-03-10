@@ -1,7 +1,8 @@
-Hello, my name is Nikita 🧠👩🏽‍💻🪐🪴
+Hello, my name is Nikita 🌸
 =======================
 
 MSc Neuroscience Graduate
+🛼🧠👩🏽‍💻🧬🪐🌿
 -------------------------
 
 Recently completed a Software Engineering Nanodegree run by Code First Girls and sponsored by Goldman Sachs, achieving a distinction (88%). I am interested in pursuing software engineering roles.
