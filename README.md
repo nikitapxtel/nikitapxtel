@@ -13,4 +13,5 @@ Recently completed a Software Engineering Nanodegree run by Code First Girls and
 
 ### Badges 
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/nikitapxtel"><img src="https://github-readme-stats.vercel.app/api?username=nikitapxtel&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="nikitapxtel's GitHub stats" /></a>
