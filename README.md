@@ -5,9 +5,10 @@ MSc Neuroscience Graduate
 🛼🧠👩🏽‍💻🧬🪐🌿
 -------------------------
 
-Recently completed a Software Engineering Nanodegree run by Code First Girls and sponsored by Goldman Sachs, achieving a distinction (88%). I am interested in pursuing software engineering roles. <img align="right" width="500" height="500" src=https://github.com/nikitapxtel/nikitapxtel/blob/06d260e00b933f8ad02012a040518802758df2c5/Untitled_Artwork.png>
+Recently completed a Software Engineering Nanodegree run by Code First Girls and sponsored by Goldman Sachs, achieving a distinction (88%). I am interested in pursuing software engineering roles. <img align="right" width="400" height="400" src=https://github.com/nikitapxtel/nikitapxtel/blob/06d260e00b933f8ad02012a040518802758df2c5/Untitled_Artwork.png>
 
 🌍  I'm based in London 
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ptgpsfwdwf7529yw64cs979da&cover_image=true&theme=novatorem&bar_color=b18cfe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
