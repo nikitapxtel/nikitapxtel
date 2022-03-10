@@ -19,5 +19,4 @@ Recently completed a Software Engineering Nanodegree run by Code First Girls and
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikitapxtel&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=EC4899&ring=EC4899&fire=6366F1&sideLabels=EC4899&currStreakNum=FFFFFF&sideNums=6366F1&dates=FFFFFF&background=0F172A)](https://git.io/streak-stats)
 
 
-![snakes gid]
-(https://github.com/nikitapxtel/nikitapxtel/blob/1b2782260be25d247202536741ebe114f65a00e2/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nikitapxtel/nikitapxtel/blob/1b2782260be25d247202536741ebe114f65a00e2/github-contribution-grid-snake.gif)
