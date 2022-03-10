@@ -1,7 +1,7 @@
 Hello, my name is Nikita 🌸
 =======================
 
-MSc Neuroscience Graduate
+MSc Neuroscience Graduate & Aspiring Software Engineer
 -------------------------
 🛼🧠👩🏽‍💻🧬🪐🌿
 
