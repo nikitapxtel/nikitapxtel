@@ -17,4 +17,4 @@ Recently completed a Software Engineering Nanodegree run by Code First Girls and
 <a href="http://www.github.com/nikitapxtel"><img src="https://github-readme-stats.vercel.app/api?username=nikitapxtel&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="nikitapxtel's GitHub stats" /></a>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikitapxtel&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=EC4899&ring=EC4899&fire=6366F1&sideLabels=EC4899&currStreakNum=FFFFFF&sideNums=6366F1&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikitapxtel&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=EC4899&ring=EC4899&fire=6366F1&sideLabels=EC4899&currStreakNum=FFFFFF&sideNums=6366F1&dates=FFFFFF&background=0F172A)](https://git.io/streak-stats)
