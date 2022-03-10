@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikita
+Hello, my name is Nikita 🧠👩🏽‍💻🪐🪴
 =======================
 
 MSc Neuroscience Graduate
