@@ -14,6 +14,8 @@ Recently completed a Software Engineering Nanodegree run by Code First Girls and
 ### Socials
 <p align="left"><a href="https://www.github.com/nikitapxtel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/kitacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/nikitapxtel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/kitacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ptgpsfwdwf7529yw64cs979da&cover_image=true&theme=default&bar_color=b18cfe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nikitapxtel"><img src="https://github-readme-stats.vercel.app/api?username=nikitapxtel&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="nikitapxtel's GitHub stats" /></a>
